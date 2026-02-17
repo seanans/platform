@@ -12,7 +12,7 @@ public class Main extends JFrame {
     // --- Game State ---
     private boolean[][] grid = new boolean[ROWS][COLS];
     private boolean isRunning = false;
-    private Timer timer; // Виправлено: тепер final
+    private Timer timer;
 
     // --- GUI Components ---
     private final GridPanel gridPanel;
@@ -21,8 +21,8 @@ public class Main extends JFrame {
     private final JSpinner speedSpinner;
 
     // --- Colors (Темніші для кращого контрасту з білим текстом) ---
-    private final Color colorBtnNormal = new Color(25, 110, 45); // Темно-зелений
-    private final Color colorBtnDanger = new Color(150, 30, 40); // Темно-червоний
+    private final Color colorBtnNormal = new Color(25, 110, 45);
+    private final Color colorBtnDanger = new Color(150, 30, 40);
 
     public Main() {
         // --- Window Setup ---
@@ -46,13 +46,13 @@ public class Main extends JFrame {
         startStopButton.addActionListener(_ -> toggleGame());
         controlPanel.add(startStopButton);
 
-        // Randomize Button (Виправлено: тепер локальна змінна)
+        // Randomize Button
         JButton randomizeButton = new JButton("Randomize");
         styleButton(randomizeButton, colorBtnNormal);
         randomizeButton.addActionListener(_ -> randomizeGrid());
         controlPanel.add(randomizeButton);
 
-        // Clear Button (Виправлено: тепер локальна змінна)
+        // Clear Button
         JButton clearButton = new JButton("Clear");
         styleButton(clearButton, colorBtnNormal);
         clearButton.addActionListener(_ -> clearGrid());
@@ -63,7 +63,7 @@ public class Main extends JFrame {
 
         // Slider
         speedSlider = new JSlider(10, 500, 100);
-        speedSlider.setInverted(true); // Вліво = 500 (повільно), Вправо = 10 (швидко)
+        speedSlider.setInverted(true);
 
         // Spinner
         SpinnerNumberModel spinnerModel = new SpinnerNumberModel(100, 10, 500, 10);
