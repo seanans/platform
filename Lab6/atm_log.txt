@@ -1,0 +1,570 @@
+[17:07:02.866] [AWT-EventQueue-0] === SIMULATION STARTED ===
+[17:07:02.882] [User-5] Opened account #1005. Initial balance: 1000,00
+[17:07:02.882] [User-2] Opened account #1002. Initial balance: 1000,00
+[17:07:02.882] [User-1] Opened account #1001. Initial balance: 1000,00
+[17:07:02.883] [User-4] Opened account #1004. Initial balance: 1000,00
+[17:07:02.883] [User-3] Opened account #1003. Initial balance: 1000,00
+[17:07:02.889] [User-1] Account #1001 deposited by 1500,00. New balance: 2500,00
+[17:07:03.024] [User-3] Account #1003 deposited by 1500,00. New balance: 2500,00
+[17:07:03.133] [User-4] Account #1004 deposited by 1500,00. New balance: 2500,00
+[17:07:03.237] [User-2] Account #1002 deposited by 1500,00. New balance: 2500,00
+[17:07:03.297] [User-5] Account #1005 deposited by 1500,00. New balance: 2500,00
+[17:07:03.791] [User-1] Withdrawal of 2000,00 from account #1001 SUCCESSFUL. Remaining balance: 500,00
+[17:07:03.961] [User-4] Withdrawal of 2000,00 from account #1004 SUCCESSFUL. Remaining balance: 500,00
+[17:07:03.979] [User-2] Withdrawal of 2000,00 from account #1002 SUCCESSFUL. Remaining balance: 500,00
+[17:07:04.027] [User-3] Withdrawal of 2000,00 from account #1003 SUCCESSFUL. Remaining balance: 500,00
+[17:07:04.040] [User-5] Withdrawal of 2000,00 from account #1005 SUCCESSFUL. Remaining balance: 500,00
+[17:07:04.324] [User-3] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:07:04.364] [User-3] DENIED: Insufficient funds on account #1003 for withdrawal of 2000,00
+[17:07:04.540] [User-1] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:07:04.547] [User-1] DENIED: Insufficient funds on account #1001 for withdrawal of 2000,00
+[17:07:04.606] [User-4] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:07:04.645] [User-5] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:07:04.799] [User-2] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:07:04.812] [User-1] Account #1001 closed.
+[17:07:04.836] [User-3] Account #1003 closed.
+[17:07:05.026] [User-5] DENIED: Insufficient funds on account #1005 for withdrawal of 2000,00
+[17:07:05.043] [User-2] DENIED: Insufficient funds on account #1002 for withdrawal of 2000,00
+[17:07:05.058] [User-4] DENIED: Insufficient funds on account #1004 for withdrawal of 2000,00
+[17:07:05.118] [User-5] Account #1005 closed.
+[17:07:05.155] [User-4] Account #1004 closed.
+[17:07:05.222] [User-2] Account #1002 closed.
+[17:07:08.877] [AWT-EventQueue-0] === SIMULATION FINISHED ===
+[17:42:59.692] [AWT-EventQueue-0] === SIMULATION STARTED ===
+[17:42:59.696] [User-4] Opened account #1004. Initial balance: 1000,00
+[17:42:59.696] [User-1] Opened account #1001. Initial balance: 1000,00
+[17:42:59.696] [User-3] Opened account #1003. Initial balance: 1000,00
+[17:42:59.697] [User-2] Opened account #1002. Initial balance: 1000,00
+[17:42:59.697] [User-5] Opened account #1005. Initial balance: 1000,00
+[17:42:59.780] [User-3] Account #1003 deposited by 1500,00. New balance: 2500,00
+[17:43:00.010] [User-2] Account #1002 deposited by 1500,00. New balance: 2500,00
+[17:43:00.037] [User-4] Account #1004 deposited by 1500,00. New balance: 2500,00
+[17:43:00.045] [User-5] Account #1005 deposited by 1500,00. New balance: 2500,00
+[17:43:00.049] [User-1] Account #1001 deposited by 1500,00. New balance: 2500,00
+[17:43:00.206] [User-4] Withdrawal of 2000,00 from account #1004 SUCCESSFUL. Remaining balance: 500,00
+[17:43:00.453] [User-2] Withdrawal of 2000,00 from account #1002 SUCCESSFUL. Remaining balance: 500,00
+[17:43:00.641] [User-5] Withdrawal of 2000,00 from account #1005 SUCCESSFUL. Remaining balance: 500,00
+[17:43:00.663] [User-3] Withdrawal of 2000,00 from account #1003 SUCCESSFUL. Remaining balance: 500,00
+[17:43:00.754] [User-2] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:00.791] [User-5] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:00.875] [User-1] Withdrawal of 2000,00 from account #1001 SUCCESSFUL. Remaining balance: 500,00
+[17:43:00.934] [User-4] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:01.046] [User-2] DENIED: Insufficient funds on account #1002 for withdrawal of 2000,00
+[17:43:01.118] [User-4] DENIED: Insufficient funds on account #1004 for withdrawal of 2000,00
+[17:43:01.124] [User-5] DENIED: Insufficient funds on account #1005 for withdrawal of 2000,00
+[17:43:01.158] [User-4] Account #1004 closed.
+[17:43:01.181] [User-5] Account #1005 closed.
+[17:43:01.304] [User-2] Account #1002 closed.
+[17:43:01.414] [User-1] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:01.548] [User-3] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:01.602] [User-1] DENIED: Insufficient funds on account #1001 for withdrawal of 2000,00
+[17:43:01.719] [User-3] DENIED: Insufficient funds on account #1003 for withdrawal of 2000,00
+[17:43:01.841] [User-3] Account #1003 closed.
+[17:43:02.018] [User-1] Account #1001 closed.
+[17:43:05.696] [AWT-EventQueue-0] === SIMULATION FINISHED ===
+[17:43:10.368] [AWT-EventQueue-0] === SIMULATION STARTED ===
+[17:43:10.368] [User-1] Opened account #1001. Initial balance: 1000,00
+[17:43:10.369] [User-2] Opened account #1002. Initial balance: 1000,00
+[17:43:10.369] [User-3] Opened account #1003. Initial balance: 1000,00
+[17:43:10.370] [User-13] Opened account #1013. Initial balance: 1000,00
+[17:43:10.372] [User-5] Opened account #1005. Initial balance: 1000,00
+[17:43:10.372] [User-6] Opened account #1006. Initial balance: 1000,00
+[17:43:10.373] [User-7] Opened account #1007. Initial balance: 1000,00
+[17:43:10.373] [User-20] Opened account #1020. Initial balance: 1000,00
+[17:43:10.373] [User-22] Opened account #1022. Initial balance: 1000,00
+[17:43:10.373] [User-11] Opened account #1011. Initial balance: 1000,00
+[17:43:10.373] [User-10] Opened account #1010. Initial balance: 1000,00
+[17:43:10.374] [User-12] Opened account #1012. Initial balance: 1000,00
+[17:43:10.374] [User-4] Opened account #1004. Initial balance: 1000,00
+[17:43:10.374] [User-14] Opened account #1014. Initial balance: 1000,00
+[17:43:10.374] [User-15] Opened account #1015. Initial balance: 1000,00
+[17:43:10.375] [User-16] Opened account #1016. Initial balance: 1000,00
+[17:43:10.375] [User-17] Opened account #1017. Initial balance: 1000,00
+[17:43:10.375] [User-18] Opened account #1018. Initial balance: 1000,00
+[17:43:10.375] [User-19] Opened account #1019. Initial balance: 1000,00
+[17:43:10.376] [User-21] Opened account #1021. Initial balance: 1000,00
+[17:43:10.376] [User-23] Opened account #1023. Initial balance: 1000,00
+[17:43:10.376] [User-8] Opened account #1008. Initial balance: 1000,00
+[17:43:10.376] [User-9] Opened account #1009. Initial balance: 1000,00
+[17:43:10.380] [User-19] Account #1019 deposited by 1500,00. New balance: 2500,00
+[17:43:10.383] [User-10] Account #1010 deposited by 1500,00. New balance: 2500,00
+[17:43:10.427] [User-13] Account #1013 deposited by 1500,00. New balance: 2500,00
+[17:43:10.451] [User-18] Account #1018 deposited by 1500,00. New balance: 2500,00
+[17:43:10.465] [User-23] Account #1023 deposited by 1500,00. New balance: 2500,00
+[17:43:10.470] [User-21] Account #1021 deposited by 1500,00. New balance: 2500,00
+[17:43:10.470] [User-9] Account #1009 deposited by 1500,00. New balance: 2500,00
+[17:43:10.511] [User-22] Account #1022 deposited by 1500,00. New balance: 2500,00
+[17:43:10.559] [User-15] Account #1015 deposited by 1500,00. New balance: 2500,00
+[17:43:10.579] [User-3] Account #1003 deposited by 1500,00. New balance: 2500,00
+[17:43:10.579] [User-12] Account #1012 deposited by 1500,00. New balance: 2500,00
+[17:43:10.594] [User-1] Account #1001 deposited by 1500,00. New balance: 2500,00
+[17:43:10.634] [User-11] Account #1011 deposited by 1500,00. New balance: 2500,00
+[17:43:10.640] [User-5] Account #1005 deposited by 1500,00. New balance: 2500,00
+[17:43:10.667] [User-11] Withdrawal of 2000,00 from account #1011 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.669] [User-8] Account #1008 deposited by 1500,00. New balance: 2500,00
+[17:43:10.671] [User-17] Account #1017 deposited by 1500,00. New balance: 2500,00
+[17:43:10.688] [User-6] Account #1006 deposited by 1500,00. New balance: 2500,00
+[17:43:10.692] [User-2] Account #1002 deposited by 1500,00. New balance: 2500,00
+[17:43:10.722] [User-14] Account #1014 deposited by 1500,00. New balance: 2500,00
+[17:43:10.722] [User-4] Account #1004 deposited by 1500,00. New balance: 2500,00
+[17:43:10.740] [User-14] Withdrawal of 2000,00 from account #1014 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.746] [User-20] Account #1020 deposited by 1500,00. New balance: 2500,00
+[17:43:10.758] [User-7] Account #1007 deposited by 1500,00. New balance: 2500,00
+[17:43:10.764] [User-6] Withdrawal of 2000,00 from account #1006 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.791] [User-13] Withdrawal of 2000,00 from account #1013 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.807] [User-5] Withdrawal of 2000,00 from account #1005 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.827] [User-18] Withdrawal of 2000,00 from account #1018 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.829] [User-11] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:10.843] [User-8] Withdrawal of 2000,00 from account #1008 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.844] [User-16] Account #1016 deposited by 1500,00. New balance: 2500,00
+[17:43:10.851] [User-11] DENIED: Insufficient funds on account #1011 for withdrawal of 2000,00
+[17:43:10.939] [User-22] Withdrawal of 2000,00 from account #1022 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.955] [User-12] Withdrawal of 2000,00 from account #1012 SUCCESSFUL. Remaining balance: 500,00
+[17:43:10.982] [User-11] Account #1011 closed.
+[17:43:11.098] [User-21] Withdrawal of 2000,00 from account #1021 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.136] [User-3] Withdrawal of 2000,00 from account #1003 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.160] [User-4] Withdrawal of 2000,00 from account #1004 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.188] [User-9] Withdrawal of 2000,00 from account #1009 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.227] [User-15] Withdrawal of 2000,00 from account #1015 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.237] [User-19] Withdrawal of 2000,00 from account #1019 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.284] [User-13] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.293] [User-22] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.299] [User-19] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.299] [User-10] Withdrawal of 2000,00 from account #1010 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.315] [User-22] DENIED: Insufficient funds on account #1022 for withdrawal of 2000,00
+[17:43:11.320] [User-1] Withdrawal of 2000,00 from account #1001 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.321] [User-13] DENIED: Insufficient funds on account #1013 for withdrawal of 2000,00
+[17:43:11.334] [User-2] Withdrawal of 2000,00 from account #1002 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.346] [User-1] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.374] [User-23] Withdrawal of 2000,00 from account #1023 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.384] [User-17] Withdrawal of 2000,00 from account #1017 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.389] [User-1] DENIED: Insufficient funds on account #1001 for withdrawal of 2000,00
+[17:43:11.391] [User-12] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.424] [User-21] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.431] [User-13] Account #1013 closed.
+[17:43:11.439] [User-8] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.447] [User-7] Withdrawal of 2000,00 from account #1007 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.500] [User-8] DENIED: Insufficient funds on account #1008 for withdrawal of 2000,00
+[17:43:11.522] [User-20] Withdrawal of 2000,00 from account #1020 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.540] [User-18] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.619] [User-5] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.635] [User-12] DENIED: Insufficient funds on account #1012 for withdrawal of 2000,00
+[17:43:11.661] [User-3] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.666] [User-8] Account #1008 closed.
+[17:43:11.666] [User-6] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.667] [User-14] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.667] [User-23] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.676] [User-21] DENIED: Insufficient funds on account #1021 for withdrawal of 2000,00
+[17:43:11.700] [User-1] Account #1001 closed.
+[17:43:11.702] [User-20] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.709] [User-22] Account #1022 closed.
+[17:43:11.716] [User-15] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.730] [User-16] Withdrawal of 2000,00 from account #1016 SUCCESSFUL. Remaining balance: 500,00
+[17:43:11.739] [User-19] DENIED: Insufficient funds on account #1019 for withdrawal of 2000,00
+[17:43:11.750] [User-23] DENIED: Insufficient funds on account #1023 for withdrawal of 2000,00
+[17:43:11.758] [User-19] Account #1019 closed.
+[17:43:11.791] [User-4] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.818] [User-20] DENIED: Insufficient funds on account #1020 for withdrawal of 2000,00
+[17:43:11.873] [User-14] DENIED: Insufficient funds on account #1014 for withdrawal of 2000,00
+[17:43:11.885] [User-3] DENIED: Insufficient funds on account #1003 for withdrawal of 2000,00
+[17:43:11.890] [User-6] DENIED: Insufficient funds on account #1006 for withdrawal of 2000,00
+[17:43:11.928] [User-18] DENIED: Insufficient funds on account #1018 for withdrawal of 2000,00
+[17:43:11.986] [User-7] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:11.989] [User-20] Account #1020 closed.
+[17:43:12.012] [User-4] DENIED: Insufficient funds on account #1004 for withdrawal of 2000,00
+[17:43:12.014] [User-10] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:12.045] [User-12] Account #1012 closed.
+[17:43:12.048] [User-21] Account #1021 closed.
+[17:43:12.061] [User-15] DENIED: Insufficient funds on account #1015 for withdrawal of 2000,00
+[17:43:12.067] [User-6] Account #1006 closed.
+[17:43:12.081] [User-5] DENIED: Insufficient funds on account #1005 for withdrawal of 2000,00
+[17:43:12.128] [User-3] Account #1003 closed.
+[17:43:12.149] [User-2] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:12.150] [User-5] Account #1005 closed.
+[17:43:12.168] [User-23] Account #1023 closed.
+[17:43:12.176] [User-9] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:12.189] [User-7] DENIED: Insufficient funds on account #1007 for withdrawal of 2000,00
+[17:43:12.203] [User-9] DENIED: Insufficient funds on account #1009 for withdrawal of 2000,00
+[17:43:12.260] [User-4] Account #1004 closed.
+[17:43:12.275] [User-18] Account #1018 closed.
+[17:43:12.288] [User-17] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:12.362] [User-7] Account #1007 closed.
+[17:43:12.369] [User-14] Account #1014 closed.
+[17:43:12.425] [User-16] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:12.454] [User-15] Account #1015 closed.
+[17:43:12.474] [User-10] DENIED: Insufficient funds on account #1010 for withdrawal of 2000,00
+[17:43:12.485] [User-17] DENIED: Insufficient funds on account #1017 for withdrawal of 2000,00
+[17:43:12.518] [User-2] DENIED: Insufficient funds on account #1002 for withdrawal of 2000,00
+[17:43:12.568] [User-9] Account #1009 closed.
+[17:43:12.592] [User-16] DENIED: Insufficient funds on account #1016 for withdrawal of 2000,00
+[17:43:12.639] [User-16] Account #1016 closed.
+[17:43:12.656] [User-2] Account #1002 closed.
+[17:43:12.744] [User-10] Account #1010 closed.
+[17:43:12.887] [User-17] Account #1017 closed.
+[17:43:16.373] [AWT-EventQueue-0] === SIMULATION FINISHED ===
+[17:43:36.930] [AWT-EventQueue-0] === SIMULATION STARTED ===
+[17:43:36.932] [User-20] Opened account #1020. Initial balance: 1000,00
+[17:43:36.932] [User-14] Opened account #1014. Initial balance: 1000,00
+[17:43:36.933] [User-29] Opened account #1029. Initial balance: 1000,00
+[17:43:36.935] [User-11] Opened account #1011. Initial balance: 1000,00
+[17:43:36.936] [User-1] Opened account #1001. Initial balance: 1000,00
+[17:43:36.936] [User-32] Opened account #1032. Initial balance: 1000,00
+[17:43:36.936] [User-8] Opened account #1008. Initial balance: 1000,00
+[17:43:36.936] [User-25] Opened account #1025. Initial balance: 1000,00
+[17:43:36.937] [User-36] Opened account #1036. Initial balance: 1000,00
+[17:43:36.937] [User-3] Opened account #1003. Initial balance: 1000,00
+[17:43:36.937] [User-4] Opened account #1004. Initial balance: 1000,00
+[17:43:36.937] [User-2] Opened account #1002. Initial balance: 1000,00
+[17:43:36.937] [User-17] Opened account #1017. Initial balance: 1000,00
+[17:43:36.938] [User-12] Opened account #1012. Initial balance: 1000,00
+[17:43:36.938] [User-5] Opened account #1005. Initial balance: 1000,00
+[17:43:36.938] [User-15] Opened account #1015. Initial balance: 1000,00
+[17:43:36.938] [User-44] Opened account #1044. Initial balance: 1000,00
+[17:43:36.939] [User-6] Opened account #1006. Initial balance: 1000,00
+[17:43:36.939] [User-18] Opened account #1018. Initial balance: 1000,00
+[17:43:36.939] [User-7] Opened account #1007. Initial balance: 1000,00
+[17:43:36.939] [User-19] Opened account #1019. Initial balance: 1000,00
+[17:43:36.940] [User-21] Opened account #1021. Initial balance: 1000,00
+[17:43:36.940] [User-22] Opened account #1022. Initial balance: 1000,00
+[17:43:36.940] [User-23] Opened account #1023. Initial balance: 1000,00
+[17:43:36.940] [User-24] Opened account #1024. Initial balance: 1000,00
+[17:43:36.940] [User-9] Opened account #1009. Initial balance: 1000,00
+[17:43:36.941] [User-27] Opened account #1027. Initial balance: 1000,00
+[17:43:36.941] [User-13] Opened account #1013. Initial balance: 1000,00
+[17:43:36.941] [User-33] Opened account #1033. Initial balance: 1000,00
+[17:43:36.941] [User-45] Opened account #1045. Initial balance: 1000,00
+[17:43:36.942] [User-50] Opened account #1050. Initial balance: 1000,00
+[17:43:36.942] [User-39] Opened account #1039. Initial balance: 1000,00
+[17:43:36.942] [User-40] Opened account #1040. Initial balance: 1000,00
+[17:43:36.942] [User-49] Opened account #1049. Initial balance: 1000,00
+[17:43:36.942] [User-16] Opened account #1016. Initial balance: 1000,00
+[17:43:36.943] [User-28] Opened account #1028. Initial balance: 1000,00
+[17:43:36.943] [User-37] Opened account #1037. Initial balance: 1000,00
+[17:43:36.943] [User-46] Opened account #1046. Initial balance: 1000,00
+[17:43:36.943] [User-42] Opened account #1042. Initial balance: 1000,00
+[17:43:36.943] [User-38] Opened account #1038. Initial balance: 1000,00
+[17:43:36.943] [User-43] Opened account #1043. Initial balance: 1000,00
+[17:43:36.944] [User-47] Opened account #1047. Initial balance: 1000,00
+[17:43:36.944] [User-48] Opened account #1048. Initial balance: 1000,00
+[17:43:36.944] [User-41] Opened account #1041. Initial balance: 1000,00
+[17:43:36.944] [User-30] Opened account #1030. Initial balance: 1000,00
+[17:43:36.944] [User-35] Opened account #1035. Initial balance: 1000,00
+[17:43:36.944] [User-34] Opened account #1034. Initial balance: 1000,00
+[17:43:36.945] [User-31] Opened account #1031. Initial balance: 1000,00
+[17:43:36.945] [User-26] Opened account #1026. Initial balance: 1000,00
+[17:43:36.945] [User-10] Opened account #1010. Initial balance: 1000,00
+[17:43:36.953] [User-24] Account #1024 deposited by 1500,00. New balance: 2500,00
+[17:43:36.963] [User-19] Account #1019 deposited by 1500,00. New balance: 2500,00
+[17:43:36.968] [User-32] Account #1032 deposited by 1500,00. New balance: 2500,00
+[17:43:36.972] [User-34] Account #1034 deposited by 1500,00. New balance: 2500,00
+[17:43:36.984] [User-42] Account #1042 deposited by 1500,00. New balance: 2500,00
+[17:43:36.988] [User-7] Account #1007 deposited by 1500,00. New balance: 2500,00
+[17:43:37.003] [User-32] Withdrawal of 2000,00 from account #1032 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.020] [User-34] Withdrawal of 2000,00 from account #1034 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.020] [User-34] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.029] [User-50] Account #1050 deposited by 1500,00. New balance: 2500,00
+[17:43:37.034] [User-36] Account #1036 deposited by 1500,00. New balance: 2500,00
+[17:43:37.042] [User-11] Account #1011 deposited by 1500,00. New balance: 2500,00
+[17:43:37.042] [User-49] Account #1049 deposited by 1500,00. New balance: 2500,00
+[17:43:37.052] [User-5] Account #1005 deposited by 1500,00. New balance: 2500,00
+[17:43:37.059] [User-13] Account #1013 deposited by 1500,00. New balance: 2500,00
+[17:43:37.071] [User-11] Withdrawal of 2000,00 from account #1011 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.077] [User-1] Account #1001 deposited by 1500,00. New balance: 2500,00
+[17:43:37.108] [User-2] Account #1002 deposited by 1500,00. New balance: 2500,00
+[17:43:37.118] [User-49] Withdrawal of 2000,00 from account #1049 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.122] [User-12] Account #1012 deposited by 1500,00. New balance: 2500,00
+[17:43:37.135] [User-15] Account #1015 deposited by 1500,00. New balance: 2500,00
+[17:43:37.135] [User-23] Account #1023 deposited by 1500,00. New balance: 2500,00
+[17:43:37.156] [User-37] Account #1037 deposited by 1500,00. New balance: 2500,00
+[17:43:37.157] [User-10] Account #1010 deposited by 1500,00. New balance: 2500,00
+[17:43:37.208] [User-45] Account #1045 deposited by 1500,00. New balance: 2500,00
+[17:43:37.222] [User-30] Account #1030 deposited by 1500,00. New balance: 2500,00
+[17:43:37.225] [User-26] Account #1026 deposited by 1500,00. New balance: 2500,00
+[17:43:37.235] [User-29] Account #1029 deposited by 1500,00. New balance: 2500,00
+[17:43:37.239] [User-40] Account #1040 deposited by 1500,00. New balance: 2500,00
+[17:43:37.265] [User-27] Account #1027 deposited by 1500,00. New balance: 2500,00
+[17:43:37.267] [User-35] Account #1035 deposited by 1500,00. New balance: 2500,00
+[17:43:37.278] [User-16] Account #1016 deposited by 1500,00. New balance: 2500,00
+[17:43:37.280] [User-14] Account #1014 deposited by 1500,00. New balance: 2500,00
+[17:43:37.288] [User-17] Account #1017 deposited by 1500,00. New balance: 2500,00
+[17:43:37.294] [User-34] DENIED: Insufficient funds on account #1034 for withdrawal of 2000,00
+[17:43:37.303] [User-41] Account #1041 deposited by 1500,00. New balance: 2500,00
+[17:43:37.320] [User-9] Account #1009 deposited by 1500,00. New balance: 2500,00
+[17:43:37.326] [User-33] Account #1033 deposited by 1500,00. New balance: 2500,00
+[17:43:37.329] [User-25] Account #1025 deposited by 1500,00. New balance: 2500,00
+[17:43:37.330] [User-6] Account #1006 deposited by 1500,00. New balance: 2500,00
+[17:43:37.333] [User-39] Account #1039 deposited by 1500,00. New balance: 2500,00
+[17:43:37.344] [User-50] Withdrawal of 2000,00 from account #1050 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.347] [User-31] Account #1031 deposited by 1500,00. New balance: 2500,00
+[17:43:37.350] [User-18] Account #1018 deposited by 1500,00. New balance: 2500,00
+[17:43:37.358] [User-1] Withdrawal of 2000,00 from account #1001 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.386] [User-12] Withdrawal of 2000,00 from account #1012 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.387] [User-20] Account #1020 deposited by 1500,00. New balance: 2500,00
+[17:43:37.389] [User-8] Account #1008 deposited by 1500,00. New balance: 2500,00
+[17:43:37.390] [User-30] Withdrawal of 2000,00 from account #1030 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.390] [User-13] Withdrawal of 2000,00 from account #1013 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.394] [User-46] Account #1046 deposited by 1500,00. New balance: 2500,00
+[17:43:37.397] [User-3] Account #1003 deposited by 1500,00. New balance: 2500,00
+[17:43:37.408] [User-28] Account #1028 deposited by 1500,00. New balance: 2500,00
+[17:43:37.408] [User-43] Account #1043 deposited by 1500,00. New balance: 2500,00
+[17:43:37.408] [User-48] Account #1048 deposited by 1500,00. New balance: 2500,00
+[17:43:37.415] [User-38] Account #1038 deposited by 1500,00. New balance: 2500,00
+[17:43:37.416] [User-42] Withdrawal of 2000,00 from account #1042 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.420] [User-28] Withdrawal of 2000,00 from account #1028 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.429] [User-19] Withdrawal of 2000,00 from account #1019 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.434] [User-4] Account #1004 deposited by 1500,00. New balance: 2500,00
+[17:43:37.436] [User-15] Withdrawal of 2000,00 from account #1015 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.437] [User-44] Account #1044 deposited by 1500,00. New balance: 2500,00
+[17:43:37.437] [User-22] Account #1022 deposited by 1500,00. New balance: 2500,00
+[17:43:37.438] [User-21] Account #1021 deposited by 1500,00. New balance: 2500,00
+[17:43:37.442] [User-46] Withdrawal of 2000,00 from account #1046 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.443] [User-47] Account #1047 deposited by 1500,00. New balance: 2500,00
+[17:43:37.446] [User-39] Withdrawal of 2000,00 from account #1039 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.460] [User-3] Withdrawal of 2000,00 from account #1003 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.499] [User-35] Withdrawal of 2000,00 from account #1035 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.518] [User-4] Withdrawal of 2000,00 from account #1004 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.522] [User-32] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.529] [User-24] Withdrawal of 2000,00 from account #1024 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.563] [User-38] Withdrawal of 2000,00 from account #1038 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.579] [User-34] Account #1034 closed.
+[17:43:37.618] [User-36] Withdrawal of 2000,00 from account #1036 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.622] [User-48] Withdrawal of 2000,00 from account #1048 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.625] [User-12] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.629] [User-46] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.649] [User-11] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.665] [User-17] Withdrawal of 2000,00 from account #1017 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.669] [User-32] DENIED: Insufficient funds on account #1032 for withdrawal of 2000,00
+[17:43:37.670] [User-42] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.678] [User-7] Withdrawal of 2000,00 from account #1007 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.694] [User-12] DENIED: Insufficient funds on account #1012 for withdrawal of 2000,00
+[17:43:37.763] [User-4] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.777] [User-42] DENIED: Insufficient funds on account #1042 for withdrawal of 2000,00
+[17:43:37.778] [User-46] DENIED: Insufficient funds on account #1046 for withdrawal of 2000,00
+[17:43:37.780] [User-28] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.784] [User-14] Withdrawal of 2000,00 from account #1014 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.810] [User-1] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.814] [User-7] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.829] [User-31] Withdrawal of 2000,00 from account #1031 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.849] [User-28] DENIED: Insufficient funds on account #1028 for withdrawal of 2000,00
+[17:43:37.856] [User-11] DENIED: Insufficient funds on account #1011 for withdrawal of 2000,00
+[17:43:37.866] [User-26] Withdrawal of 2000,00 from account #1026 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.889] [User-30] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.889] [User-49] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.891] [User-32] Account #1032 closed.
+[17:43:37.910] [User-41] Withdrawal of 2000,00 from account #1041 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.921] [User-29] Withdrawal of 2000,00 from account #1029 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.934] [User-30] DENIED: Insufficient funds on account #1030 for withdrawal of 2000,00
+[17:43:37.940] [User-29] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.941] [User-25] Withdrawal of 2000,00 from account #1025 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.950] [User-23] Withdrawal of 2000,00 from account #1023 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.952] [User-43] Withdrawal of 2000,00 from account #1043 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.954] [User-16] Withdrawal of 2000,00 from account #1016 SUCCESSFUL. Remaining balance: 500,00
+[17:43:37.956] [User-50] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.968] [User-3] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.981] [User-13] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:37.987] [User-9] Withdrawal of 2000,00 from account #1009 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.000] [User-1] DENIED: Insufficient funds on account #1001 for withdrawal of 2000,00
+[17:43:38.004] [User-31] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.011] [User-5] Withdrawal of 2000,00 from account #1005 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.012] [User-33] Withdrawal of 2000,00 from account #1033 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.021] [User-2] Withdrawal of 2000,00 from account #1002 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.039] [User-28] Account #1028 closed.
+[17:43:38.045] [User-27] Withdrawal of 2000,00 from account #1027 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.055] [User-8] Withdrawal of 2000,00 from account #1008 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.077] [User-46] Account #1046 closed.
+[17:43:38.079] [User-38] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.086] [User-22] Withdrawal of 2000,00 from account #1022 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.100] [User-37] Withdrawal of 2000,00 from account #1037 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.106] [User-12] Account #1012 closed.
+[17:43:38.115] [User-10] Withdrawal of 2000,00 from account #1010 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.119] [User-47] Withdrawal of 2000,00 from account #1047 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.120] [User-45] Withdrawal of 2000,00 from account #1045 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.132] [User-8] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.134] [User-30] Account #1030 closed.
+[17:43:38.137] [User-8] DENIED: Insufficient funds on account #1008 for withdrawal of 2000,00
+[17:43:38.139] [User-19] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.140] [User-10] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.144] [User-1] Account #1001 closed.
+[17:43:38.151] [User-40] Withdrawal of 2000,00 from account #1040 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.158] [User-31] DENIED: Insufficient funds on account #1031 for withdrawal of 2000,00
+[17:43:38.158] [User-14] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.166] [User-42] Account #1042 closed.
+[17:43:38.178] [User-11] Account #1011 closed.
+[17:43:38.179] [User-31] Account #1031 closed.
+[17:43:38.186] [User-43] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.188] [User-24] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.197] [User-49] DENIED: Insufficient funds on account #1049 for withdrawal of 2000,00
+[17:43:38.210] [User-22] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.212] [User-4] DENIED: Insufficient funds on account #1004 for withdrawal of 2000,00
+[17:43:38.218] [User-5] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.225] [User-20] Withdrawal of 2000,00 from account #1020 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.237] [User-48] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.239] [User-35] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.240] [User-39] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.245] [User-45] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.249] [User-22] DENIED: Insufficient funds on account #1022 for withdrawal of 2000,00
+[17:43:38.252] [User-19] DENIED: Insufficient funds on account #1019 for withdrawal of 2000,00
+[17:43:38.255] [User-5] DENIED: Insufficient funds on account #1005 for withdrawal of 2000,00
+[17:43:38.258] [User-15] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.267] [User-18] Withdrawal of 2000,00 from account #1018 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.270] [User-6] Withdrawal of 2000,00 from account #1006 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.279] [User-27] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.300] [User-45] DENIED: Insufficient funds on account #1045 for withdrawal of 2000,00
+[17:43:38.301] [User-29] DENIED: Insufficient funds on account #1029 for withdrawal of 2000,00
+[17:43:38.301] [User-7] DENIED: Insufficient funds on account #1007 for withdrawal of 2000,00
+[17:43:38.320] [User-50] DENIED: Insufficient funds on account #1050 for withdrawal of 2000,00
+[17:43:38.329] [User-49] Account #1049 closed.
+[17:43:38.338] [User-5] Account #1005 closed.
+[17:43:38.351] [User-21] Withdrawal of 2000,00 from account #1021 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.360] [User-38] DENIED: Insufficient funds on account #1038 for withdrawal of 2000,00
+[17:43:38.364] [User-44] Withdrawal of 2000,00 from account #1044 SUCCESSFUL. Remaining balance: 500,00
+[17:43:38.370] [User-15] DENIED: Insufficient funds on account #1015 for withdrawal of 2000,00
+[17:43:38.375] [User-2] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.387] [User-16] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.390] [User-3] DENIED: Insufficient funds on account #1003 for withdrawal of 2000,00
+[17:43:38.406] [User-8] Account #1008 closed.
+[17:43:38.406] [User-3] Account #1003 closed.
+[17:43:38.406] [User-36] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.416] [User-50] Account #1050 closed.
+[17:43:38.416] [User-27] DENIED: Insufficient funds on account #1027 for withdrawal of 2000,00
+[17:43:38.437] [User-40] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.440] [User-40] DENIED: Insufficient funds on account #1040 for withdrawal of 2000,00
+[17:43:38.442] [User-17] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.453] [User-17] DENIED: Insufficient funds on account #1017 for withdrawal of 2000,00
+[17:43:38.463] [User-43] DENIED: Insufficient funds on account #1043 for withdrawal of 2000,00
+[17:43:38.480] [User-13] DENIED: Insufficient funds on account #1013 for withdrawal of 2000,00
+[17:43:38.490] [User-37] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.499] [User-2] DENIED: Insufficient funds on account #1002 for withdrawal of 2000,00
+[17:43:38.499] [User-4] Account #1004 closed.
+[17:43:38.500] [User-38] Account #1038 closed.
+[17:43:38.504] [User-26] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.516] [User-41] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.527] [User-33] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.530] [User-20] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.549] [User-23] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.571] [User-48] DENIED: Insufficient funds on account #1048 for withdrawal of 2000,00
+[17:43:38.577] [User-37] DENIED: Insufficient funds on account #1037 for withdrawal of 2000,00
+[17:43:38.587] [User-14] DENIED: Insufficient funds on account #1014 for withdrawal of 2000,00
+[17:43:38.591] [User-10] DENIED: Insufficient funds on account #1010 for withdrawal of 2000,00
+[17:43:38.604] [User-33] DENIED: Insufficient funds on account #1033 for withdrawal of 2000,00
+[17:43:38.607] [User-39] DENIED: Insufficient funds on account #1039 for withdrawal of 2000,00
+[17:43:38.608] [User-17] Account #1017 closed.
+[17:43:38.614] [User-7] Account #1007 closed.
+[17:43:38.627] [User-43] Account #1043 closed.
+[17:43:38.632] [User-26] DENIED: Insufficient funds on account #1026 for withdrawal of 2000,00
+[17:43:38.637] [User-40] Account #1040 closed.
+[17:43:38.645] [User-41] DENIED: Insufficient funds on account #1041 for withdrawal of 2000,00
+[17:43:38.647] [User-25] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.651] [User-15] Account #1015 closed.
+[17:43:38.657] [User-24] DENIED: Insufficient funds on account #1024 for withdrawal of 2000,00
+[17:43:38.681] [User-19] Account #1019 closed.
+[17:43:38.687] [User-22] Account #1022 closed.
+[17:43:38.691] [User-35] DENIED: Insufficient funds on account #1035 for withdrawal of 2000,00
+[17:43:38.703] [User-37] Account #1037 closed.
+[17:43:38.712] [User-26] Account #1026 closed.
+[17:43:38.714] [User-45] Account #1045 closed.
+[17:43:38.734] [User-36] DENIED: Insufficient funds on account #1036 for withdrawal of 2000,00
+[17:43:38.749] [User-35] Account #1035 closed.
+[17:43:38.756] [User-41] Account #1041 closed.
+[17:43:38.762] [User-2] Account #1002 closed.
+[17:43:38.770] [User-13] Account #1013 closed.
+[17:43:38.776] [User-29] Account #1029 closed.
+[17:43:38.788] [User-6] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.795] [User-24] Account #1024 closed.
+[17:43:38.797] [User-25] DENIED: Insufficient funds on account #1025 for withdrawal of 2000,00
+[17:43:38.803] [User-16] DENIED: Insufficient funds on account #1016 for withdrawal of 2000,00
+[17:43:38.811] [User-44] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.820] [User-10] Account #1010 closed.
+[17:43:38.836] [User-48] Account #1048 closed.
+[17:43:38.868] [User-18] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.871] [User-9] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:38.903] [User-27] Account #1027 closed.
+[17:43:38.915] [User-36] Account #1036 closed.
+[17:43:38.936] [User-6] DENIED: Insufficient funds on account #1006 for withdrawal of 2000,00
+[17:43:38.950] [User-39] Account #1039 closed.
+[17:43:38.954] [User-20] DENIED: Insufficient funds on account #1020 for withdrawal of 2000,00
+[17:43:38.964] [User-47] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:39.009] [User-33] Account #1033 closed.
+[17:43:39.038] [User-23] DENIED: Insufficient funds on account #1023 for withdrawal of 2000,00
+[17:43:39.057] [User-14] Account #1014 closed.
+[17:43:39.146] [User-44] DENIED: Insufficient funds on account #1044 for withdrawal of 2000,00
+[17:43:39.151] [User-16] Account #1016 closed.
+[17:43:39.154] [User-25] Account #1025 closed.
+[17:43:39.160] [User-6] Account #1006 closed.
+[17:43:39.164] [User-21] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:43:39.217] [User-9] DENIED: Insufficient funds on account #1009 for withdrawal of 2000,00
+[17:43:39.254] [User-18] DENIED: Insufficient funds on account #1018 for withdrawal of 2000,00
+[17:43:39.268] [User-23] Account #1023 closed.
+[17:43:39.316] [User-20] Account #1020 closed.
+[17:43:39.357] [User-21] DENIED: Insufficient funds on account #1021 for withdrawal of 2000,00
+[17:43:39.438] [User-21] Account #1021 closed.
+[17:43:39.443] [User-44] Account #1044 closed.
+[17:43:39.463] [User-47] DENIED: Insufficient funds on account #1047 for withdrawal of 2000,00
+[17:43:39.518] [User-47] Account #1047 closed.
+[17:43:39.556] [User-9] Account #1009 closed.
+[17:43:39.639] [User-18] Account #1018 closed.
+[17:43:42.934] [AWT-EventQueue-0] === SIMULATION FINISHED ===
+[17:46:45.013] [AWT-EventQueue-0] === SIMULATION STARTED ===
+[17:46:45.015] [User-3] Opened account #1003. Initial balance: 1000,00
+[17:46:45.016] [User-2] Opened account #1002. Initial balance: 1000,00
+[17:46:45.016] [User-1] Opened account #1001. Initial balance: 1000,00
+[17:46:45.016] [User-5] Opened account #1005. Initial balance: 1000,00
+[17:46:45.016] [User-4] Opened account #1004. Initial balance: 1000,00
+[17:46:45.081] [User-4] Account #1004 deposited by 1500,00. New balance: 2500,00
+[17:46:45.186] [User-1] Account #1001 deposited by 1500,00. New balance: 2500,00
+[17:46:45.340] [User-2] Account #1002 deposited by 1500,00. New balance: 2500,00
+[17:46:45.395] [User-5] Account #1005 deposited by 1500,00. New balance: 2500,00
+[17:46:45.399] [User-3] Account #1003 deposited by 1500,00. New balance: 2500,00
+[17:46:45.744] [User-2] Withdrawal of 2000,00 from account #1002 SUCCESSFUL. Remaining balance: 500,00
+[17:46:46.011] [User-1] Withdrawal of 2000,00 from account #1001 SUCCESSFUL. Remaining balance: 500,00
+[17:46:46.014] [User-3] Withdrawal of 2000,00 from account #1003 SUCCESSFUL. Remaining balance: 500,00
+[17:46:46.044] [User-4] Withdrawal of 2000,00 from account #1004 SUCCESSFUL. Remaining balance: 500,00
+[17:46:46.169] [User-5] Withdrawal of 2000,00 from account #1005 SUCCESSFUL. Remaining balance: 500,00
+[17:46:46.491] [User-5] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:46:46.525] [User-2] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:46:46.680] [User-2] DENIED: Insufficient funds on account #1002 for withdrawal of 2000,00
+[17:46:46.775] [User-4] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:46:46.847] [User-1] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:46:46.871] [User-1] DENIED: Insufficient funds on account #1001 for withdrawal of 2000,00
+[17:46:46.917] [User-2] Account #1002 closed.
+[17:46:46.923] [User-5] DENIED: Insufficient funds on account #1005 for withdrawal of 2000,00
+[17:46:46.968] [User-4] DENIED: Insufficient funds on account #1004 for withdrawal of 2000,00
+[17:46:47.013] [User-3] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[17:46:47.097] [User-4] Account #1004 closed.
+[17:46:47.223] [User-5] Account #1005 closed.
+[17:46:47.253] [User-1] Account #1001 closed.
+[17:46:47.266] [User-3] DENIED: Insufficient funds on account #1003 for withdrawal of 2000,00
+[17:46:47.687] [User-3] Account #1003 closed.
+[17:46:51.016] [AWT-EventQueue-0] === SIMULATION FINISHED ===
+[18:07:06.351] [AWT-EventQueue-0] === SIMULATION STARTED ===
+[18:07:06.355] [User-2] Opened account #1002. Initial balance: 1000,00
+[18:07:06.355] [User-3] Opened account #1003. Initial balance: 1000,00
+[18:07:06.355] [User-1] Opened account #1001. Initial balance: 1000,00
+[18:07:06.356] [User-5] Opened account #1005. Initial balance: 1000,00
+[18:07:06.356] [User-4] Opened account #1004. Initial balance: 1000,00
+[18:07:06.403] [User-4] Account #1004 deposited by 1500,00. New balance: 2500,00
+[18:07:06.481] [User-3] Account #1003 deposited by 1500,00. New balance: 2500,00
+[18:07:06.509] [User-1] Account #1001 deposited by 1500,00. New balance: 2500,00
+[18:07:06.520] [User-3] Withdrawal of 2000,00 from account #1003 SUCCESSFUL. Remaining balance: 500,00
+[18:07:06.567] [User-4] Withdrawal of 2000,00 from account #1004 SUCCESSFUL. Remaining balance: 500,00
+[18:07:06.695] [User-5] Account #1005 deposited by 1500,00. New balance: 2500,00
+[18:07:06.784] [User-2] Account #1002 deposited by 1500,00. New balance: 2500,00
+[18:07:06.790] [User-5] Withdrawal of 2000,00 from account #1005 SUCCESSFUL. Remaining balance: 500,00
+[18:07:06.795] [User-3] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[18:07:06.940] [User-1] Withdrawal of 2000,00 from account #1001 SUCCESSFUL. Remaining balance: 500,00
+[18:07:06.946] [User-4] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[18:07:06.993] [User-3] DENIED: Insufficient funds on account #1003 for withdrawal of 2000,00
+[18:07:07.086] [User-3] Account #1003 closed.
+[18:07:07.143] [User-4] DENIED: Insufficient funds on account #1004 for withdrawal of 2000,00
+[18:07:07.338] [User-1] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[18:07:07.502] [User-4] Account #1004 closed.
+[18:07:07.719] [User-1] DENIED: Insufficient funds on account #1001 for withdrawal of 2000,00
+[18:07:07.735] [User-2] Withdrawal of 2000,00 from account #1002 SUCCESSFUL. Remaining balance: 500,00
+[18:07:07.775] [User-5] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[18:07:07.847] [User-1] Account #1001 closed.
+[18:07:08.041] [User-5] DENIED: Insufficient funds on account #1005 for withdrawal of 2000,00
+[18:07:08.121] [User-5] Account #1005 closed.
+[18:07:08.447] [User-2] DENIED: Withdrawal limit exceeded (6000,00 > 5000,00)
+[18:07:08.901] [User-2] DENIED: Insufficient funds on account #1002 for withdrawal of 2000,00
+[18:07:09.008] [User-2] Account #1002 closed.
+[18:07:12.355] [AWT-EventQueue-0] === SIMULATION FINISHED ===
